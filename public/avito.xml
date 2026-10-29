@@ -201,7 +201,7 @@ ________&lt;br /&gt;
 		<Doors>5</Doors>
 		<Model>J7</Model>
 		<Power>186</Power>
-		<Price>3259000</Price>
+		<Price>3409000</Price>
 		<Images>
 			<Image url="https://avatars.avto.ru/get-cme-media/17783072/6441cc9d-9f7c-4373-8c4a-a83b6a078485/optimize-png-jpeg" />
 		</Images>
@@ -1207,7 +1207,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>860000</MaxDiscount>
+		<MaxDiscount>854700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -1627,220 +1627,6 @@ ________&lt;br /&gt;
 		<InsuranceDiscount>0</InsuranceDiscount>
 	</Ad>
 	<Ad>
-		<Id>CME_82314965</Id>
-		<VIN>EDXDB21B4TG009365</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Белый</Color>
-		<Doors>5</Doors>
-		<Model>J6</Model>
-		<Power>147</Power>
-		<Price>2330000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/20126285/f6ff1b19-148a-41ed-bcdc-ecb346d167b5/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/6e434455-48ee-4079-9622-ecb9f4073177/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/54b6f900-13a2-48c0-b215-e3049fd57a0a/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20332731/79270563-63a3-491a-8eb9-3bb76d4d3e16/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20475191/0ab5029d-df85-494e-9e06-9d0846b12ee7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20470344/a1f1511c-f15f-48ca-9753-1cb30c8ccaa8/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/fc1dd7e4-6e75-45c4-98f6-7ca4e9f28012/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/403e6649-0b23-4ce5-8115-4e2daeefb632/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/dec550e1-4ad9-4cf8-a4bb-fbdb1f5230a7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/5ba44b68-6e71-4f04-b801-2281924b7168/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20470344/fcb02fd8-35c5-4d46-8cf7-18eb20f2bbb2/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20126285/02635df4-b7dd-4bb2-8c9e-f08451cb9589/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/28486903-7290-4813-9176-37716496d2dc/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20625098/3a779076-67e3-4119-8136-17cc06b531aa/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/811d4159-ef6f-4b27-ae9f-0feff3721678/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20229053/9f7809d3-d8d3-47fc-8eaa-c3d300d905ca/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20625098/13688d5b-99f6-40db-b62f-c02374a26b5c/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/ce597669-d2b2-4d98-8ce8-6b1af4983ed5/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>17"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.5</EngineSize>
-		<Generation>I (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в этом месяце: минимальный платеж по автокредиту 12 260 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J6 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;/p&gt;
-&lt;p&gt;⚡️ Спецусловия только до конца июля:&lt;/p&gt;
-&lt;p&gt;✔ Выгода до 400 000 ₽ — забирайте свой новый J6 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;/p&gt;
-&lt;p&gt;Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;/p&gt;
-&lt;p&gt;🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;/p&gt;
-&lt;p&gt;JAECOO J6 — это баланс классического строгого дизайна и современных технологий. Идеален для города и уверенно чувствует себя за его пределами.&lt;/p&gt;
-&lt;p&gt;🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ&lt;/p&gt;
-&lt;p&gt;📍 Двигатель: 1.5 л (147 л.с., крутящий момент 210 Нм). Разгон до сотки за 10 сек.&lt;br /&gt;
-📍 Проходимость: Клиренс 176 мм, углы въезда/съезда 20° и 30° — бордюры и умеренное бездорожье больше не проблема.&lt;br /&gt;
-📍 Управляемость: Полностью независимая подвеска (многорычажка сзади) глотает неровности и четко держит трассу, а 18-е диски с профилем 235 мм добавляют устойчивости.&lt;br /&gt;
-📍 Оснащение: Умная камера 540° с эффектом «прозрачного шасси» для идеальной парковки.&lt;br /&gt;
-📍 Практичность: Уже установлен сертифицированный фаркоп для прицепов и активного отдыха.&lt;br /&gt;
-📍 Салон: Огромный планшет мультимедиа на 13,2 дюйма и атмосферная подсветка (64 оттенка).&lt;/p&gt;
-&lt;p&gt;🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;/p&gt;
-&lt;p&gt;✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ Честная гарантия до 7 лет (200 000 км пробега): 3 года заводской + 4 года техподдержки.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;/p&gt;
-&lt;p&gt;📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;</Description>
-		<MaxDiscount>787900</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.5T DCT (147 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<CreditDiscount>0</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<TradeinDiscount>0</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
-		<Id>CME_82314967</Id>
-		<VIN>EDXDB21B0TG006933</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Белый</Color>
-		<Doors>5</Doors>
-		<Model>J6</Model>
-		<Power>147</Power>
-		<Price>2330000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/20126285/f6ff1b19-148a-41ed-bcdc-ecb346d167b5/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/6e434455-48ee-4079-9622-ecb9f4073177/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/54b6f900-13a2-48c0-b215-e3049fd57a0a/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20332731/79270563-63a3-491a-8eb9-3bb76d4d3e16/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20475191/0ab5029d-df85-494e-9e06-9d0846b12ee7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20470344/a1f1511c-f15f-48ca-9753-1cb30c8ccaa8/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/fc1dd7e4-6e75-45c4-98f6-7ca4e9f28012/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/403e6649-0b23-4ce5-8115-4e2daeefb632/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/dec550e1-4ad9-4cf8-a4bb-fbdb1f5230a7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/5ba44b68-6e71-4f04-b801-2281924b7168/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20470344/fcb02fd8-35c5-4d46-8cf7-18eb20f2bbb2/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20126285/02635df4-b7dd-4bb2-8c9e-f08451cb9589/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/28486903-7290-4813-9176-37716496d2dc/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20625098/3a779076-67e3-4119-8136-17cc06b531aa/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/811d4159-ef6f-4b27-ae9f-0feff3721678/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20229053/9f7809d3-d8d3-47fc-8eaa-c3d300d905ca/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20625098/13688d5b-99f6-40db-b62f-c02374a26b5c/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/ce597669-d2b2-4d98-8ce8-6b1af4983ed5/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>17"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.5</EngineSize>
-		<Generation>I (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в этом месяце: минимальный платеж по автокредиту 12 260 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J6 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;/p&gt;
-&lt;p&gt;⚡️ Спецусловия только до конца июля:&lt;/p&gt;
-&lt;p&gt;✔ Выгода до 400 000 ₽ — забирайте свой новый J6 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;/p&gt;
-&lt;p&gt;Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;/p&gt;
-&lt;p&gt;🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;/p&gt;
-&lt;p&gt;JAECOO J6 — это баланс классического строгого дизайна и современных технологий. Идеален для города и уверенно чувствует себя за его пределами.&lt;/p&gt;
-&lt;p&gt;🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ&lt;/p&gt;
-&lt;p&gt;📍 Двигатель: 1.5 л (147 л.с., крутящий момент 210 Нм). Разгон до сотки за 10 сек.&lt;br /&gt;
-📍 Проходимость: Клиренс 176 мм, углы въезда/съезда 20° и 30° — бордюры и умеренное бездорожье больше не проблема.&lt;br /&gt;
-📍 Управляемость: Полностью независимая подвеска (многорычажка сзади) глотает неровности и четко держит трассу, а 18-е диски с профилем 235 мм добавляют устойчивости.&lt;br /&gt;
-📍 Оснащение: Умная камера 540° с эффектом «прозрачного шасси» для идеальной парковки.&lt;br /&gt;
-📍 Практичность: Уже установлен сертифицированный фаркоп для прицепов и активного отдыха.&lt;br /&gt;
-📍 Салон: Огромный планшет мультимедиа на 13,2 дюйма и атмосферная подсветка (64 оттенка).&lt;/p&gt;
-&lt;p&gt;🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;/p&gt;
-&lt;p&gt;✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ Честная гарантия до 7 лет (200 000 км пробега): 3 года заводской + 4 года техподдержки.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;/p&gt;
-&lt;p&gt;📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;</Description>
-		<MaxDiscount>700000</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.5T DCT (147 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<CreditDiscount>0</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<TradeinDiscount>0</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
 		<Id>CME_82314972</Id>
 		<VIN>EDXDB21BXTG014179</VIN>
 		<Make>JAECOO</Make>
@@ -2022,7 +1808,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>1015300</MaxDiscount>
+		<MaxDiscount>932700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -2453,7 +2239,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>1015300</MaxDiscount>
+		<MaxDiscount>932700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
