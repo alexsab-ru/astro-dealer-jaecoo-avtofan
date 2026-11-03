@@ -429,7 +429,7 @@ ________&lt;br /&gt;
 			<Option>Противотуманные</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>577700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -454,7 +454,7 @@ ________&lt;br /&gt;
 		<Id>CME_79585389</Id>
 		<VIN>EDXDD24B5SD099860</VIN>
 		<Make>JAECOO</Make>
-		<Year>2026</Year>
+		<Year>2025</Year>
 		<Color>Серебряный</Color>
 		<Doors>5</Doors>
 		<Model>J8</Model>
@@ -660,7 +660,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>489100</MaxDiscount>
+		<MaxDiscount>770700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -684,7 +684,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>770700</CreditDiscount>
 		<MemorySettings>
 			<Option>Передних сидений</Option>
 		</MemorySettings>
@@ -912,7 +912,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>577700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -1341,7 +1341,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>399000</CreditDiscount>
+		<CreditDiscount>554700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -1999,7 +1999,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>454700</CreditDiscount>
+		<CreditDiscount>532700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -2472,7 +2472,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>532700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -2700,7 +2700,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>577700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -2926,7 +2926,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>577700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -7577,7 +7577,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>889100</MaxDiscount>
+		<MaxDiscount>932700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -7600,7 +7600,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>454700</CreditDiscount>
+		<CreditDiscount>532700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -7814,7 +7814,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>889100</MaxDiscount>
+		<MaxDiscount>977700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -7834,7 +7834,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
+		<CreditDiscount>577700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -7857,7 +7857,7 @@ ________&lt;br /&gt;
 		<Id>CME_83743235</Id>
 		<VIN>EDXDB21B8SC077044</VIN>
 		<Make>JAECOO</Make>
-		<Year>2026</Year>
+		<Year>2025</Year>
 		<Color>Белый</Color>
 		<Doors>5</Doors>
 		<Model>J7</Model>
@@ -8054,7 +8054,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>889100</MaxDiscount>
+		<MaxDiscount>935700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -8077,7 +8077,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>454700</CreditDiscount>
+		<CreditDiscount>535700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -8298,7 +8298,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>399000</CreditDiscount>
+		<CreditDiscount>554700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -8514,7 +8514,7 @@ ________&lt;br /&gt;
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>399000</CreditDiscount>
+		<CreditDiscount>554700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -9157,7 +9157,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>889100</MaxDiscount>
+		<MaxDiscount>932700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -9180,7 +9180,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>399000</CreditDiscount>
+		<CreditDiscount>532700</CreditDiscount>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
 			<Option>Иммобилайзер</Option>
@@ -9189,7 +9189,7 @@ ________&lt;br /&gt;
 			<Option>Кожаный руль</Option>
 			<Option>Люк</Option>
 		</InteriorOptions>
-		<TradeinDiscount>300000</TradeinDiscount>
+		<TradeinDiscount>400000</TradeinDiscount>
 		<DrivingAssistance>
 			<Option>Бортовой компьютер</Option>
 			<Option>Круиз-контроль</Option>
