@@ -459,7 +459,7 @@ ________&lt;br /&gt;
 		<Doors>5</Doors>
 		<Model>J8</Model>
 		<Power>249</Power>
-		<Price>4645000</Price>
+		<Price>4569000</Price>
 		<Images>
 			<Image url="https://avatars.avto.ru/get-cme-media/21106880/8fad2169-7a1f-4f54-98ed-671ad0ce56ea/optimize-png-jpeg" />
 			<Image url="https://avatars.avto.ru/get-cme-media/16422223/e9062a2e-4eb2-4db3-92f2-b27f9e7d7991/optimize-png-jpeg" />
@@ -660,7 +660,7 @@ ________&lt;br /&gt;
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>770700</MaxDiscount>
+		<MaxDiscount>1370700</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -684,7 +684,7 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>770700</CreditDiscount>
+		<CreditDiscount>970700</CreditDiscount>
 		<MemorySettings>
 			<Option>Передних сидений</Option>
 		</MemorySettings>
@@ -695,7 +695,7 @@ ________&lt;br /&gt;
 			<Option>Кожаный руль</Option>
 			<Option>Люк</Option>
 		</InteriorOptions>
-		<TradeinDiscount>0</TradeinDiscount>
+		<TradeinDiscount>400000</TradeinDiscount>
 		<DrivingAssistance>
 			<Option>Бортовой компьютер</Option>
 			<Option>Круиз-контроль</Option>
@@ -1360,420 +1360,6 @@ ________&lt;br /&gt;
 		<InsuranceDiscount>0</InsuranceDiscount>
 	</Ad>
 	<Ad>
-		<Id>CME_82314955</Id>
-		<VIN>EDXDB21B5TG006880</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Белый</Color>
-		<Doors>5</Doors>
-		<Model>J6</Model>
-		<Power>147</Power>
-		<Price>2330000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/20341740/24e8d986-2fd5-493e-812b-22c1441fc66e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/14586817/4b21c513-c4bd-4e73-943e-c10cd3ead666/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/ec968421-9408-4a6d-81b3-9ed5ebfe685e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16848505/4c0f57eb-ee39-4e24-9285-356ce92675e4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/14586817/5e93af6b-c0b4-4b2e-905b-65a7f948eb59/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21604350/96e52d88-dfed-477e-b392-1730a23b33a9/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/b016278c-f83e-4bd2-899d-199e47ec38e7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20267153/ae1bc51b-1851-4be1-b8ac-def2e5632123/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20267153/94c9ea4d-0edc-4ba8-8b7f-238d215a216d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16145667/4e9313ae-1c03-4999-89c4-2fd37eb89ff5/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/519d9ada-36e7-4e66-9d95-191da83cbcf6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/2fd1b863-374f-4945-8578-f644a689b5d6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/3470a6ca-a920-4afa-ba9f-ddf2bf87f421/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21089246/2c52bdc7-c919-4fb4-b8d2-88c8b3b699f0/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/17396671/e49fde63-04e8-4b16-9921-8404c0352e99/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/18038845/8c0942ca-f63b-4057-a331-428a4f267234/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20344429/b4555457-e0c5-4b4a-99b5-8cc0012e9baf/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/e45f3e9a-7cfa-419c-9f27-4d0a5b842f4d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16296920/e6d0d7b4-f07f-4a87-a8e0-3a1a99ad8af0/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/1fad1de3-24f6-4009-a346-27b828817742/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>17"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Задних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<Interior>Кожа</Interior>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.5</EngineSize>
-		<Generation>I (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-			<Option>Управление на руле</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 12 260 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J6 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J6 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
-Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;br /&gt;
-JAECOO J6 — это баланс классического строгого дизайна и современных технологий. Идеален для города и уверенно чувствует себя за его пределами.&lt;br /&gt;
-🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ&lt;br /&gt;
-📍 Двигатель: 1.5 л (147 л.с., крутящий момент 210 Нм). Разгон до сотки за 10 сек.&lt;br /&gt;
-📍 Проходимость: Клиренс 176 мм, углы въезда/съезда 20° и 30° — бордюры и умеренное бездорожье больше не проблема.&lt;br /&gt;
-📍 Управляемость: Полностью независимая подвеска (многорычажка сзади) глотает неровности и четко держит трассу, а 18-е диски с профилем 235 мм добавляют устойчивости.&lt;br /&gt;
-📍 Оснащение: Умная камера 540° с эффектом «прозрачного шасси» для идеальной парковки.&lt;br /&gt;
-📍 Практичность: Уже установлен сертифицированный фаркоп для прицепов и активного отдыха.&lt;br /&gt;
-📍 Салон: Огромный планшет мультимедиа на 13,2 дюйма и атмосферная подсветка (64 оттенка).&lt;br /&gt;
-🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
-✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ Честная гарантия до 7 лет (200 000 км пробега): 3 года заводской + 4 года техподдержки.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
-&lt;p&gt;———————————————————————————&lt;br /&gt;
-ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
-Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом&lt;br /&gt;
-Обогрев лобового стекла&lt;br /&gt;
-Обогрев форсунок стеклоомывателя&lt;br /&gt;
-Обогрев передних сидений&lt;br /&gt;
-Обогрев сидений второго ряда&lt;br /&gt;
-Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
-Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
-Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
-Многофункциональное рулевое колесо&lt;br /&gt;
-Климат-контроль, 2 зоны&lt;br /&gt;
-Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
-Аудиосистема с 6 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
-Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-1 разъем Ю-Эс-Би (USB) тип C (Type-C) и 1 разъем тип A (Type A) спереди&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Электропривод двери багажника&lt;br /&gt;
-Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
-Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 8 дюймов&lt;br /&gt;
-Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
-Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
-Функция автоматического включения работы дворников при дожде (датчик дождя)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
-Функция отсрочки выключения фар (Фоллоу ми хоум (Follow me home))&lt;br /&gt;
-Пассажирское сиденье с механической регулировкой в 4-х направлениях&lt;br /&gt;
-Розетка на 12 В (12V) спереди и сзади&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-БЕЗОПАСНОСТЬ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
-2 боковые передние подушки безопасности&lt;br /&gt;
-Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
-Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
-Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
-Ассистент спуска с горы (HDC)&lt;br /&gt;
-Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
-Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
-Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ИНТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Количество мест: 5&lt;br /&gt;
-Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
-Цвет обивки сидений: черный&lt;br /&gt;
-Цвет передней панели: черный&lt;br /&gt;
-Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ЭКСТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Белый металлик&lt;em&gt;&lt;br /&gt;
-Тип кузова: кроссовер&lt;br /&gt;
-Количество дверей: 5&lt;br /&gt;
-Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 17 дюймов&lt;br /&gt;
-Шины 215/60R17&lt;br /&gt;
-________&lt;br /&gt;
-&lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
-		<Maintenance>
-			<Option>На гарантии</Option>
-		</Maintenance>
-		<MaxDiscount>699000</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.5T DCT (147 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>0</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<InteriorOptions>
-			<Option>Кожаный руль</Option>
-		</InteriorOptions>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Бортовой компьютер</Option>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
-		<Id>CME_82314964</Id>
-		<VIN>EDXDB21B7TG007044</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Черный</Color>
-		<Doors>5</Doors>
-		<Model>J6</Model>
-		<Power>147</Power>
-		<Price>2330000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/20470344/a2e7b5e4-148d-499c-a4b7-7e0df934f432/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21089246/c1b17c68-c899-4e98-b82c-8b25f15aad2f/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/ae1c8287-e4c2-45d3-bf89-fae2368599b3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20341740/ba5ff723-e784-4cd1-ae5c-76062f4dd8d1/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20291002/7be0a5c9-9b6f-4965-a38a-bdd930ce8887/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20229053/bcbaf424-1f6e-43d0-be7f-8548b680efd7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21604350/babb8e3f-d4b3-4eef-a270-2b7b4ed9d740/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20292991/213b6aac-c5ad-4e70-9f18-3c3377e501a6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20358284/9145899a-3f13-4c58-b6d2-679cfe202d6a/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20759163/2dc29b9d-1f65-4a12-8afc-e21e7fe715c1/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20292991/1b078499-498e-43bc-9490-7592afa6d9c4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20970839/e8724875-0761-42c3-afbf-7152d723a282/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20292991/ed060dd6-b7a2-4b62-857e-bc441eface86/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21504701/4784c411-15fe-4ecd-96f7-82f97a320ee9/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>17"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Задних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<Interior>Кожа</Interior>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.5</EngineSize>
-		<Generation>I (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-			<Option>Управление на руле</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 12 260 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J6 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J6 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
-Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;br /&gt;
-JAECOO J6 — это баланс классического строгого дизайна и современных технологий. Идеален для города и уверенно чувствует себя за его пределами.&lt;br /&gt;
-🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ&lt;br /&gt;
-📍 Двигатель: 1.5 л (147 л.с., крутящий момент 210 Нм). Разгон до сотки за 10 сек.&lt;br /&gt;
-📍 Проходимость: Клиренс 176 мм, углы въезда/съезда 20° и 30° — бордюры и умеренное бездорожье больше не проблема.&lt;br /&gt;
-📍 Управляемость: Полностью независимая подвеска (многорычажка сзади) глотает неровности и четко держит трассу, а 18-е диски с профилем 235 мм добавляют устойчивости.&lt;br /&gt;
-📍 Оснащение: Умная камера 540° с эффектом «прозрачного шасси» для идеальной парковки.&lt;br /&gt;
-📍 Практичность: Уже установлен сертифицированный фаркоп для прицепов и активного отдыха.&lt;br /&gt;
-📍 Салон: Огромный планшет мультимедиа на 13,2 дюйма и атмосферная подсветка (64 оттенка).&lt;br /&gt;
-🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
-✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ Честная гарантия до 7 лет (200 000 км пробега): 3 года заводской + 4 года техподдержки.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
-&lt;p&gt;———————————————————————————&lt;br /&gt;
-ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
-Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом&lt;br /&gt;
-Обогрев лобового стекла&lt;br /&gt;
-Обогрев форсунок стеклоомывателя&lt;br /&gt;
-Обогрев передних сидений&lt;br /&gt;
-Обогрев сидений второго ряда&lt;br /&gt;
-Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
-Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
-Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
-Многофункциональное рулевое колесо&lt;br /&gt;
-Климат-контроль, 2 зоны&lt;br /&gt;
-Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
-Аудиосистема с 6 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
-Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-1 разъем Ю-Эс-Би (USB) тип C (Type-C) и 1 разъем тип A (Type A) спереди&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Электропривод двери багажника&lt;br /&gt;
-Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
-Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 8 дюймов&lt;br /&gt;
-Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
-Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
-Функция автоматического включения работы дворников при дожде (датчик дождя)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
-Функция отсрочки выключения фар (Фоллоу ми хоум (Follow me home))&lt;br /&gt;
-Пассажирское сиденье с механической регулировкой в 4-х направлениях&lt;br /&gt;
-Розетка на 12 В (12V) спереди и сзади&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-БЕЗОПАСНОСТЬ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
-2 боковые передние подушки безопасности&lt;br /&gt;
-Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
-Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
-Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
-Ассистент спуска с горы (HDC)&lt;br /&gt;
-Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
-Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
-Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ИНТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Количество мест: 5&lt;br /&gt;
-Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
-Цвет обивки сидений: черный&lt;br /&gt;
-Цвет передней панели: черный&lt;br /&gt;
-Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ЭКСТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Черный металлик&lt;em&gt;&lt;br /&gt;
-Тип кузова: кроссовер&lt;br /&gt;
-Количество дверей: 5&lt;br /&gt;
-Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 17 дюймов&lt;br /&gt;
-Шины 215/60R17&lt;br /&gt;
-________&lt;br /&gt;
-&lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
-		<Maintenance>
-			<Option>На гарантии</Option>
-		</Maintenance>
-		<MaxDiscount>699000</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.5T DCT (147 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>0</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<InteriorOptions>
-			<Option>Кожаный руль</Option>
-		</InteriorOptions>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Бортовой компьютер</Option>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
 		<Id>CME_82314972</Id>
 		<VIN>EDXDB21BXTG014179</VIN>
 		<Make>JAECOO</Make>
@@ -2015,232 +1601,6 @@ ________&lt;br /&gt;
 			<Option>Парктроник передний</Option>
 			<Option>Парктроник задний</Option>
 			<Option>Система контроля слепых зон</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
-		<Id>CME_82314973</Id>
-		<VIN>EDXDD21BXTG014385</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Черный</Color>
-		<Doors>5</Doors>
-		<Model>J7</Model>
-		<Power>186</Power>
-		<Price>3259000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/a88d6281-d49e-41f5-97e6-0a09b06be560/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/a6dfc9c3-3578-4201-a8ce-0a026e2c0ae3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/2c02326e-b3f5-40ec-b903-62830dbc103c/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/832dfcef-60e7-446b-a974-5c33fe639c20/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/d75c4a25-c25b-4712-8679-d8fad73dfaac/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/f9e5b340-6877-4833-9538-a03bcf12e0cd/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/e8901724-e354-48a7-a276-7aee58ef2661/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20055570/4a676364-62bd-43fb-bc78-1b2d9652ab0f/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/f20701ec-27f5-4f67-bf38-073c9fd6dfcc/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21106880/11443d90-4583-4321-b76a-eaa5e88b916d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/50bee5f4-db1c-48ac-94bc-a12c6d9b22f9/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20997340/9224a659-08f9-4227-a196-a14b8e2a2d33/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21106880/44fb08f5-ad10-4bc2-8e67-13ef419a4d66/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/630392d7-5861-4c68-81b7-f482f1a0fdd4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/7b469087-9f63-4581-a721-a6ed0b52e1cf/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/52f4b9ea-34eb-4602-bc38-63e45bd16373/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/85e32033-4394-4104-bbe5-b3aa2c4acfc2/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/7bd61076-cfd7-4ec0-9bf0-21053decb30a/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/e18d845f-0a79-4d0e-ad78-ac72d00d7653/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/cf53e1cd-ca83-42fa-b8dc-0f6210cf13d3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/0c121762-3979-4040-8d73-2f4c9fc4f74e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/af4831fb-bd6a-4869-ba70-7f84e6b0675f/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>18"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-			<Option>Шторки</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<Interior>Кожа</Interior>
-		<VideoURL />
-		<DriveType>Полный</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.6</EngineSize>
-		<Generation>I рестайлинг (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-			<Option>Управление на руле</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 13 984 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J7 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J7 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
-Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.!&lt;br /&gt;
-JAECOO J7 — это уверенность на дорогах и за пределами асфальта. Харизматичный внедорожник, в котором классические штрихи идеально сбалансированы с элементами роскоши и самыми передовыми технологиями XXI века.&lt;br /&gt;
-🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ:&lt;br /&gt;
-📍 Двигатель: Мощный 1.6 Turbo (на выбор 150 л.с. или 186 л.с., крутящий момент 275 Нм). Динамичный разгон до сотки от 9.2 сек.&lt;br /&gt;
-📍 Привод: Доступен с передним (2WD) или интеллектуальным полным приводом (AWD) от всемирно известных ZF и Borgwarner.&lt;br /&gt;
-📍 Экстерьер: Цепляющий дизайн со светодиодной оптикой, 19-дюймовыми литыми дисками и выдвигающимися дверными ручками (не боятся обледенения).&lt;br /&gt;
-📍 Безопасность: Силовой каркас на 80% из высокопрочной стали, 7 подушек безопасности и полный комплекс ассистентов ADAS (адаптивный круиз, удержание в полосе, контроль слепых зон и автопереключение света).&lt;br /&gt;
-📍 Салон: Современный минимализм с панорамной крышей. Спортивные кресла с вентиляцией, подогревом и памятью настроек. Многофункциональный усеченный руль.&lt;br /&gt;
-📍 Мультимедиа: Огромный дисплей 14,8” (быстрый процессор Snapdragon 8155), проекция HUD, встроенная навигация, телематика и сервисы VK.&lt;br /&gt;
-📍 Практичность: Двухуровневое багажное отделение с удобным дистанционным открытием без помощи рук.&lt;br /&gt;
-🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
-✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ 7 лет поддержки: До 200 000 км пробега полной уверенности (официальный сервис + оригинальные детали).&lt;br /&gt;
-✅ Премиум-сервис: Помощь на дорогах, услуга «Автоконсьерж» и доступ в закрытый Автоклуб владельцев.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
-&lt;p&gt;———————————————————————————&lt;br /&gt;
-ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
-Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом, повторителями поворотов&lt;br /&gt;
-Обогрев лобового стекла&lt;br /&gt;
-Обогрев форсунок стеклоомывателя&lt;br /&gt;
-Обогрев передних сидений&lt;br /&gt;
-Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
-Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
-Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
-Многофункциональное рулевое колесо&lt;br /&gt;
-Климат-контроль, 2 зоны&lt;br /&gt;
-Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
-Аудиосистема с 6 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
-Голосовое управление&lt;br /&gt;
-Беспроводная зарядка для смартфона мощностью 50 Вт (50W)&lt;br /&gt;
-Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) спереди&lt;br /&gt;
-Ю-Эс-Би (USB) тип C (Type-C)&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Передние датчики парковки&lt;br /&gt;
-Электропривод двери багажника (открытие багажника без помощи рук)&lt;br /&gt;
-Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
-Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 10.25 дюйма&lt;br /&gt;
-Датчик превышения заданной скорости/ограничитель скорости&lt;br /&gt;
-Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
-Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
-Система остановки/запуска двигателя Старт/Стоп (Start/Stop)&lt;br /&gt;
-Функция автоматического включения работы дворников при дожде (датчик дождя)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Уведомление о превышении скорости&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
-Функция отсрочки выключения фар (Фоллоу ми хоум (Follow me home))&lt;br /&gt;
-Пассажирское сиденье с механической регулировкой в 4 направлениях&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-БЕЗОПАСНОСТЬ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
-2 боковые передние подушки безопасности&lt;br /&gt;
-2 шторки безопасности&lt;br /&gt;
-Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
-Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
-Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
-Ассистент спуска с горы (HDC)&lt;br /&gt;
-Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Система кругового обзора 540°&lt;br /&gt;
-Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
-Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
-Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ИНТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Количество мест: 5&lt;br /&gt;
-Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
-Цвет обивки сидений: черный&lt;br /&gt;
-Цвет передней панели: черный&lt;br /&gt;
-Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Ручки для пассажиров с микролифтом&lt;br /&gt;
-Потолочные светодиодные светильники для 2 ряда сидений&lt;br /&gt;
-Раздвижная шторка багажника&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ЭКСТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Черный металлик&lt;em&gt;&lt;br /&gt;
-Тип кузова: кроссовер&lt;br /&gt;
-Количество дверей: 5&lt;br /&gt;
-Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 18 дюймов&lt;br /&gt;
-Шины 235/55R18&lt;br /&gt;
-________&lt;br /&gt;
-&lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
-		<Maintenance>
-			<Option>На гарантии</Option>
-		</Maintenance>
-		<MaxDiscount>972500</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.6 TGDI 4WD DCT (186 л.с.)</Modification>
-		<PowerWindows>Передние и задние</PowerWindows>
-		<Transmission>Робот</Transmission>
-		<Complectation>Lifestyle</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>489100</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<InteriorOptions>
-			<Option>Кожаный руль</Option>
-		</InteriorOptions>
-		<TradeinDiscount>100000</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Бортовой компьютер</Option>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник передний</Option>
-			<Option>Парктроник задний</Option>
 			<Option>Датчик дождя</Option>
 			<Option>Датчик света</Option>
 		</DrivingAssistance>
@@ -8099,224 +7459,6 @@ ________&lt;br /&gt;
 		<InsuranceDiscount>0</InsuranceDiscount>
 	</Ad>
 	<Ad>
-		<Id>CME_83743236</Id>
-		<VIN>EDXDB21B5TG016583</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Черный</Color>
-		<Doors>5</Doors>
-		<Model>J7</Model>
-		<Power>150</Power>
-		<Price>2849000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/a88d6281-d49e-41f5-97e6-0a09b06be560/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/a6dfc9c3-3578-4201-a8ce-0a026e2c0ae3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/2c02326e-b3f5-40ec-b903-62830dbc103c/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/832dfcef-60e7-446b-a974-5c33fe639c20/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/d75c4a25-c25b-4712-8679-d8fad73dfaac/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/f9e5b340-6877-4833-9538-a03bcf12e0cd/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/e8901724-e354-48a7-a276-7aee58ef2661/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20055570/4a676364-62bd-43fb-bc78-1b2d9652ab0f/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/f20701ec-27f5-4f67-bf38-073c9fd6dfcc/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21106880/11443d90-4583-4321-b76a-eaa5e88b916d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/50bee5f4-db1c-48ac-94bc-a12c6d9b22f9/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20997340/9224a659-08f9-4227-a196-a14b8e2a2d33/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21106880/44fb08f5-ad10-4bc2-8e67-13ef419a4d66/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/630392d7-5861-4c68-81b7-f482f1a0fdd4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/7b469087-9f63-4581-a721-a6ed0b52e1cf/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/52f4b9ea-34eb-4602-bc38-63e45bd16373/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/85e32033-4394-4104-bbe5-b3aa2c4acfc2/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/7bd61076-cfd7-4ec0-9bf0-21053decb30a/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/e18d845f-0a79-4d0e-ad78-ac72d00d7653/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/cf53e1cd-ca83-42fa-b8dc-0f6210cf13d3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/0c121762-3979-4040-8d73-2f4c9fc4f74e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/af4831fb-bd6a-4869-ba70-7f84e6b0675f/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>18"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-			<Option>Шторки</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<Interior>Кожа</Interior>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.6</EngineSize>
-		<Generation>I рестайлинг (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-			<Option>Управление на руле</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 13 984 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J7 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J7 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
-Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.!&lt;br /&gt;
-JAECOO J7 — это уверенность на дорогах и за пределами асфальта. Харизматичный внедорожник, в котором классические штрихи идеально сбалансированы с элементами роскоши и самыми передовыми технологиями XXI века.&lt;br /&gt;
-🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ:&lt;br /&gt;
-📍 Двигатель: Мощный 1.6 Turbo (на выбор 150 л.с. или 186 л.с., крутящий момент 275 Нм). Динамичный разгон до сотки от 9.2 сек.&lt;br /&gt;
-📍 Привод: Доступен с передним (2WD) или интеллектуальным полным приводом (AWD) от всемирно известных ZF и Borgwarner.&lt;br /&gt;
-📍 Экстерьер: Цепляющий дизайн со светодиодной оптикой, 19-дюймовыми литыми дисками и выдвигающимися дверными ручками (не боятся обледенения).&lt;br /&gt;
-📍 Безопасность: Силовой каркас на 80% из высокопрочной стали, 7 подушек безопасности и полный комплекс ассистентов ADAS (адаптивный круиз, удержание в полосе, контроль слепых зон и автопереключение света).&lt;br /&gt;
-📍 Салон: Современный минимализм с панорамной крышей. Спортивные кресла с вентиляцией, подогревом и памятью настроек. Многофункциональный усеченный руль.&lt;br /&gt;
-📍 Мультимедиа: Огромный дисплей 14,8” (быстрый процессор Snapdragon 8155), проекция HUD, встроенная навигация, телематика и сервисы VK.&lt;br /&gt;
-📍 Практичность: Двухуровневое багажное отделение с удобным дистанционным открытием без помощи рук.&lt;br /&gt;
-🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
-✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ 7 лет поддержки: До 200 000 км пробега полной уверенности (официальный сервис + оригинальные детали).&lt;br /&gt;
-✅ Премиум-сервис: Помощь на дорогах, услуга «Автоконсьерж» и доступ в закрытый Автоклуб владельцев.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
-&lt;p&gt;———————————————————————————&lt;br /&gt;
-ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
-Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом, повторителями поворотов&lt;br /&gt;
-Обогрев лобового стекла&lt;br /&gt;
-Обогрев форсунок стеклоомывателя&lt;br /&gt;
-Обогрев передних сидений&lt;br /&gt;
-Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
-Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
-Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
-Многофункциональное рулевое колесо&lt;br /&gt;
-Климат-контроль, 2 зоны&lt;br /&gt;
-Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
-Аудиосистема с 6 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
-Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) спереди&lt;br /&gt;
-Ю-Эс-Би (USB) тип C (Type-C)&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
-Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 10.25 дюйма&lt;br /&gt;
-Датчик превышения заданной скорости/ограничитель скорости&lt;br /&gt;
-Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
-Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
-Система остановки/запуска двигателя Старт/Стоп (Start/Stop)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Уведомление о превышении скорости&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
-Пассажирское сиденье с механической регулировкой в 4 направлениях&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-БЕЗОПАСНОСТЬ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
-2 боковые передние подушки безопасности&lt;br /&gt;
-2 шторки безопасности&lt;br /&gt;
-Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
-Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
-Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
-Ассистент спуска с горы (HDC)&lt;br /&gt;
-Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Камера заднего вида с динамическими линиями разметки&lt;br /&gt;
-Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
-Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
-Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ИНТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Количество мест: 5&lt;br /&gt;
-Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
-Цвет обивки сидений: черный&lt;br /&gt;
-Цвет передней панели: черный&lt;br /&gt;
-Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Ручки для пассажиров с микролифтом&lt;br /&gt;
-Потолочные светодиодные светильники для 2 ряда сидений&lt;br /&gt;
-Раздвижная шторка багажника&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ЭКСТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Черный металлик&lt;em&gt;&lt;br /&gt;
-Тип кузова: кроссовер&lt;br /&gt;
-Количество дверей: 5&lt;br /&gt;
-Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 18 дюймов&lt;br /&gt;
-Шины 235/55R18&lt;br /&gt;
-________&lt;br /&gt;
-&lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
-		<Maintenance>
-			<Option>На гарантии</Option>
-		</Maintenance>
-		<MaxDiscount>854700</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.6 TGDI DCT (150 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>554700</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<InteriorOptions>
-			<Option>Кожаный руль</Option>
-		</InteriorOptions>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Бортовой компьютер</Option>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Камера заднего вида</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
 		<Id>CME_83743237</Id>
 		<VIN>EDXDB21B8TG013774</VIN>
 		<Make>JAECOO</Make>
@@ -8533,467 +7675,26 @@ ________&lt;br /&gt;
 		<InsuranceDiscount>0</InsuranceDiscount>
 	</Ad>
 	<Ad>
-		<Id>CME_83743238</Id>
-		<VIN>EDXDB21B0TG009153</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Белый</Color>
-		<Doors>5</Doors>
-		<Model>J6</Model>
-		<Power>147</Power>
-		<Price>2330000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/20341740/24e8d986-2fd5-493e-812b-22c1441fc66e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/ec968421-9408-4a6d-81b3-9ed5ebfe685e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/14586817/4b21c513-c4bd-4e73-943e-c10cd3ead666/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16848505/4c0f57eb-ee39-4e24-9285-356ce92675e4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/14586817/5e93af6b-c0b4-4b2e-905b-65a7f948eb59/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21604350/96e52d88-dfed-477e-b392-1730a23b33a9/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/b016278c-f83e-4bd2-899d-199e47ec38e7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20267153/ae1bc51b-1851-4be1-b8ac-def2e5632123/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16145667/a5c6d3e8-d9c9-46c9-ad2b-e66630a39455/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20267153/94c9ea4d-0edc-4ba8-8b7f-238d215a216d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16145667/4e9313ae-1c03-4999-89c4-2fd37eb89ff5/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/519d9ada-36e7-4e66-9d95-191da83cbcf6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/2fd1b863-374f-4945-8578-f644a689b5d6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/3470a6ca-a920-4afa-ba9f-ddf2bf87f421/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21089246/2c52bdc7-c919-4fb4-b8d2-88c8b3b699f0/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/17396671/e49fde63-04e8-4b16-9921-8404c0352e99/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/18038845/8c0942ca-f63b-4057-a331-428a4f267234/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20344429/b4555457-e0c5-4b4a-99b5-8cc0012e9baf/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/e45f3e9a-7cfa-419c-9f27-4d0a5b842f4d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16296920/e6d0d7b4-f07f-4a87-a8e0-3a1a99ad8af0/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/1fad1de3-24f6-4009-a346-27b828817742/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>17"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Задних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<Interior>Кожа</Interior>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.5</EngineSize>
-		<Generation>I (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-			<Option>Управление на руле</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 12 260 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J6 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J6 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
-Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;br /&gt;
-JAECOO J6 — это баланс классического строгого дизайна и современных технологий. Идеален для города и уверенно чувствует себя за его пределами.&lt;br /&gt;
-🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ&lt;br /&gt;
-📍 Двигатель: 1.5 л (147 л.с., крутящий момент 210 Нм). Разгон до сотки за 10 сек.&lt;br /&gt;
-📍 Проходимость: Клиренс 176 мм, углы въезда/съезда 20° и 30° — бордюры и умеренное бездорожье больше не проблема.&lt;br /&gt;
-📍 Управляемость: Полностью независимая подвеска (многорычажка сзади) глотает неровности и четко держит трассу, а 18-е диски с профилем 235 мм добавляют устойчивости.&lt;br /&gt;
-📍 Оснащение: Умная камера 540° с эффектом «прозрачного шасси» для идеальной парковки.&lt;br /&gt;
-📍 Практичность: Уже установлен сертифицированный фаркоп для прицепов и активного отдыха.&lt;br /&gt;
-📍 Салон: Огромный планшет мультимедиа на 13,2 дюйма и атмосферная подсветка (64 оттенка).&lt;br /&gt;
-🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
-✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ Честная гарантия до 7 лет (200 000 км пробега): 3 года заводской + 4 года техподдержки.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
-&lt;p&gt;———————————————————————————&lt;br /&gt;
-ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
-Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом&lt;br /&gt;
-Обогрев лобового стекла&lt;br /&gt;
-Обогрев форсунок стеклоомывателя&lt;br /&gt;
-Обогрев передних сидений&lt;br /&gt;
-Обогрев сидений второго ряда&lt;br /&gt;
-Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
-Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
-Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
-Многофункциональное рулевое колесо&lt;br /&gt;
-Климат-контроль, 2 зоны&lt;br /&gt;
-Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
-Аудиосистема с 6 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
-Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-1 разъем Ю-Эс-Би (USB) тип C (Type-C) и 1 разъем тип A (Type A) спереди&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Электропривод двери багажника&lt;br /&gt;
-Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
-Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 8 дюймов&lt;br /&gt;
-Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
-Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
-Функция автоматического включения работы дворников при дожде (датчик дождя)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
-Функция отсрочки выключения фар (Фоллоу ми хоум (Follow me home))&lt;br /&gt;
-Пассажирское сиденье с механической регулировкой в 4-х направлениях&lt;br /&gt;
-Розетка на 12 В (12V) спереди и сзади&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-БЕЗОПАСНОСТЬ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
-2 боковые передние подушки безопасности&lt;br /&gt;
-Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
-Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
-Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
-Ассистент спуска с горы (HDC)&lt;br /&gt;
-Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
-Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
-Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ИНТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Количество мест: 5&lt;br /&gt;
-Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
-Цвет обивки сидений: черный&lt;br /&gt;
-Цвет передней панели: черный&lt;br /&gt;
-Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ЭКСТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Белый металлик&lt;em&gt;&lt;br /&gt;
-Тип кузова: кроссовер&lt;br /&gt;
-Количество дверей: 5&lt;br /&gt;
-Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 17 дюймов&lt;br /&gt;
-Шины 215/60R17&lt;br /&gt;
-________&lt;br /&gt;
-&lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
-		<Maintenance>
-			<Option>На гарантии</Option>
-		</Maintenance>
-		<MaxDiscount>699000</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.5T DCT (147 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>399000</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<InteriorOptions>
-			<Option>Кожаный руль</Option>
-		</InteriorOptions>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Бортовой компьютер</Option>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
-		<Id>CME_83743240</Id>
-		<VIN>EDXDB21B0TG009282</VIN>
-		<Make>JAECOO</Make>
-		<Year>2026</Year>
-		<Color>Белый</Color>
-		<Doors>5</Doors>
-		<Model>J6</Model>
-		<Power>147</Power>
-		<Price>2330000</Price>
-		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/20341740/24e8d986-2fd5-493e-812b-22c1441fc66e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/ec968421-9408-4a6d-81b3-9ed5ebfe685e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/14586817/4b21c513-c4bd-4e73-943e-c10cd3ead666/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16848505/4c0f57eb-ee39-4e24-9285-356ce92675e4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/14586817/5e93af6b-c0b4-4b2e-905b-65a7f948eb59/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21604350/96e52d88-dfed-477e-b392-1730a23b33a9/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/19826183/b016278c-f83e-4bd2-899d-199e47ec38e7/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20267153/ae1bc51b-1851-4be1-b8ac-def2e5632123/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16145667/a5c6d3e8-d9c9-46c9-ad2b-e66630a39455/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20267153/94c9ea4d-0edc-4ba8-8b7f-238d215a216d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16145667/4e9313ae-1c03-4999-89c4-2fd37eb89ff5/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/519d9ada-36e7-4e66-9d95-191da83cbcf6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/2fd1b863-374f-4945-8578-f644a689b5d6/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/3470a6ca-a920-4afa-ba9f-ddf2bf87f421/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21089246/2c52bdc7-c919-4fb4-b8d2-88c8b3b699f0/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/17396671/e49fde63-04e8-4b16-9921-8404c0352e99/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/18038845/8c0942ca-f63b-4057-a331-428a4f267234/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20344429/b4555457-e0c5-4b4a-99b5-8cc0012e9baf/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/e45f3e9a-7cfa-419c-9f27-4d0a5b842f4d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16296920/e6d0d7b4-f07f-4a87-a8e0-3a1a99ad8af0/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/1fad1de3-24f6-4009-a346-27b828817742/optimize-png-jpeg" />
-		</Images>
-		<Lights>Светодиодные</Lights>
-		<Wheels>17"</Wheels>
-		<Address>Тольятти, ул. Ленина, 44с1</Address>
-		<Airbags>
-			<Option>Фронтальные</Option>
-			<Option>Боковые передние</Option>
-		</Airbags>
-		<CarType>Новые</CarType>
-		<Heating>
-			<Option>Передних сидений</Option>
-			<Option>Задних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Руля</Option>
-		</Heating>
-		<BodyType>Внедорожник</BodyType>
-		<Category>Автомобили</Category>
-		<FuelType>Бензин</FuelType>
-		<Interior>Кожа</Interior>
-		<VideoURL />
-		<DriveType>Передний</DriveType>
-		<WheelType>Левый</WheelType>
-		<EngineSize>1.5</EngineSize>
-		<Generation>I (2025—2026)</Generation>
-		<ListingFee>Package</ListingFee>
-		<Multimedia>
-			<Option>CD/DVD/Blu-ray</Option>
-			<Option>Bluetooth</Option>
-			<Option>USB</Option>
-			<Option>Управление на руле</Option>
-		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 12 260 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J6 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J6 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
-✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
-✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
-Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;br /&gt;
-JAECOO J6 — это баланс классического строгого дизайна и современных технологий. Идеален для города и уверенно чувствует себя за его пределами.&lt;br /&gt;
-🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ&lt;br /&gt;
-📍 Двигатель: 1.5 л (147 л.с., крутящий момент 210 Нм). Разгон до сотки за 10 сек.&lt;br /&gt;
-📍 Проходимость: Клиренс 176 мм, углы въезда/съезда 20° и 30° — бордюры и умеренное бездорожье больше не проблема.&lt;br /&gt;
-📍 Управляемость: Полностью независимая подвеска (многорычажка сзади) глотает неровности и четко держит трассу, а 18-е диски с профилем 235 мм добавляют устойчивости.&lt;br /&gt;
-📍 Оснащение: Умная камера 540° с эффектом «прозрачного шасси» для идеальной парковки.&lt;br /&gt;
-📍 Практичность: Уже установлен сертифицированный фаркоп для прицепов и активного отдыха.&lt;br /&gt;
-📍 Салон: Огромный планшет мультимедиа на 13,2 дюйма и атмосферная подсветка (64 оттенка).&lt;br /&gt;
-🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
-✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
-✅ Честная гарантия до 7 лет (200 000 км пробега): 3 года заводской + 4 года техподдержки.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
-&lt;p&gt;———————————————————————————&lt;br /&gt;
-ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
-Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом&lt;br /&gt;
-Обогрев лобового стекла&lt;br /&gt;
-Обогрев форсунок стеклоомывателя&lt;br /&gt;
-Обогрев передних сидений&lt;br /&gt;
-Обогрев сидений второго ряда&lt;br /&gt;
-Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
-Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
-Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
-Многофункциональное рулевое колесо&lt;br /&gt;
-Климат-контроль, 2 зоны&lt;br /&gt;
-Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
-Аудиосистема с 6 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
-Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-1 разъем Ю-Эс-Би (USB) тип C (Type-C) и 1 разъем тип A (Type A) спереди&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Электропривод двери багажника&lt;br /&gt;
-Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
-Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 8 дюймов&lt;br /&gt;
-Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
-Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
-Функция автоматического включения работы дворников при дожде (датчик дождя)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
-Функция отсрочки выключения фар (Фоллоу ми хоум (Follow me home))&lt;br /&gt;
-Пассажирское сиденье с механической регулировкой в 4-х направлениях&lt;br /&gt;
-Розетка на 12 В (12V) спереди и сзади&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-БЕЗОПАСНОСТЬ&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
-2 боковые передние подушки безопасности&lt;br /&gt;
-Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
-Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
-Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
-Ассистент спуска с горы (HDC)&lt;br /&gt;
-Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
-Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
-Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ИНТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Количество мест: 5&lt;br /&gt;
-Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
-Цвет обивки сидений: черный&lt;br /&gt;
-Цвет передней панели: черный&lt;br /&gt;
-Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-ЭКСТЕРЬЕР&lt;br /&gt;
-———————————————————————————&lt;br /&gt;
-Белый металлик&lt;em&gt;&lt;br /&gt;
-Тип кузова: кроссовер&lt;br /&gt;
-Количество дверей: 5&lt;br /&gt;
-Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 17 дюймов&lt;br /&gt;
-Шины 215/60R17&lt;br /&gt;
-________&lt;br /&gt;
-&lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
-		<Maintenance>
-			<Option>На гарантии</Option>
-		</Maintenance>
-		<MaxDiscount>699000</MaxDiscount>
-		<OnlyOnAvito>Нет</OnlyOnAvito>
-		<RegInRussia>Не на учете в РФ</RegInRussia>
-		<ActiveSafety>
-			<Option>Антиблокировка тормозов</Option>
-			<Option>Курсовая устойчивость</Option>
-		</ActiveSafety>
-		<Availability>В наличии</Availability>
-		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.5T DCT (147 л.с.)</Modification>
-		<Transmission>Робот</Transmission>
-		<Complectation>Актив</Complectation>
-		<ContactMethod>По телефону и в сообщениях</ContactMethod>
-		<ElectricDrive>
-			<Option>Передних сидений</Option>
-			<Option>Зеркал</Option>
-			<Option>Складывания зеркал</Option>
-		</ElectricDrive>
-		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>399000</CreditDiscount>
-		<AntitheftSystem>
-			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
-		</AntitheftSystem>
-		<InteriorOptions>
-			<Option>Кожаный руль</Option>
-		</InteriorOptions>
-		<TradeinDiscount>300000</TradeinDiscount>
-		<DrivingAssistance>
-			<Option>Бортовой компьютер</Option>
-			<Option>Круиз-контроль</Option>
-			<Option>Парктроник задний</Option>
-			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
-		</DrivingAssistance>
-		<InsuranceDiscount>0</InsuranceDiscount>
-	</Ad>
-	<Ad>
-		<Id>CME_83785772</Id>
-		<VIN>EDXDB21B3TG014119</VIN>
+		<Id>CME_83964983</Id>
+		<VIN>EDXDD24B6TG010314</VIN>
 		<Make>JAECOO</Make>
 		<Year>2026</Year>
 		<Color>Черный</Color>
 		<Doors>5</Doors>
-		<Model>J7</Model>
-		<Power>150</Power>
-		<Price>3109000</Price>
+		<Model>J8</Model>
+		<Power>249</Power>
+		<Price>4645000</Price>
 		<Images>
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/a88d6281-d49e-41f5-97e6-0a09b06be560/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/a6dfc9c3-3578-4201-a8ce-0a026e2c0ae3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/2c02326e-b3f5-40ec-b903-62830dbc103c/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/832dfcef-60e7-446b-a974-5c33fe639c20/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/d75c4a25-c25b-4712-8679-d8fad73dfaac/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/f9e5b340-6877-4833-9538-a03bcf12e0cd/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/e8901724-e354-48a7-a276-7aee58ef2661/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20055570/4a676364-62bd-43fb-bc78-1b2d9652ab0f/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/f20701ec-27f5-4f67-bf38-073c9fd6dfcc/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21106880/11443d90-4583-4321-b76a-eaa5e88b916d/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/50bee5f4-db1c-48ac-94bc-a12c6d9b22f9/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20997340/9224a659-08f9-4227-a196-a14b8e2a2d33/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/21106880/44fb08f5-ad10-4bc2-8e67-13ef419a4d66/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/630392d7-5861-4c68-81b7-f482f1a0fdd4/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/7b469087-9f63-4581-a721-a6ed0b52e1cf/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/52f4b9ea-34eb-4602-bc38-63e45bd16373/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/85e32033-4394-4104-bbe5-b3aa2c4acfc2/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/15032987/7bd61076-cfd7-4ec0-9bf0-21053decb30a/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16456566/e18d845f-0a79-4d0e-ad78-ac72d00d7653/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/20927243/cf53e1cd-ca83-42fa-b8dc-0f6210cf13d3/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/0c121762-3979-4040-8d73-2f4c9fc4f74e/optimize-png-jpeg" />
-			<Image url="https://avatars.avto.ru/get-cme-media/16422223/af4831fb-bd6a-4869-ba70-7f84e6b0675f/optimize-png-jpeg" />
+			<Image url="https://avatars.avto.ru/get-cme-media/16447471/c14a537e-5b60-4455-9432-5e75dad104a7/optimize-png-jpeg" />
 		</Images>
 		<Lights>Светодиодные</Lights>
-		<Wheels>18"</Wheels>
+		<Wheels>20"</Wheels>
 		<Address>Тольятти, ул. Ленина, 44с1</Address>
 		<Airbags>
 			<Option>Фронтальные</Option>
+			<Option>Коленные</Option>
 			<Option>Боковые передние</Option>
+			<Option>Боковые задние</Option>
 			<Option>Шторки</Option>
 		</Airbags>
 		<CarType>Новые</CarType>
@@ -9008,10 +7709,10 @@ ________&lt;br /&gt;
 		<FuelType>Бензин</FuelType>
 		<Interior>Кожа</Interior>
 		<VideoURL />
-		<DriveType>Передний</DriveType>
+		<DriveType>Полный</DriveType>
 		<WheelType>Левый</WheelType>
-		<EngineSize>1.6</EngineSize>
-		<Generation>I рестайлинг (2025—2026)</Generation>
+		<EngineSize>2.0</EngineSize>
+		<Generation>I (2024—2026)</Generation>
 		<ListingFee>Package</ListingFee>
 		<Multimedia>
 			<Option>CD/DVD/Blu-ray</Option>
@@ -9019,145 +7720,161 @@ ________&lt;br /&gt;
 			<Option>USB</Option>
 			<Option>Управление на руле</Option>
 		</Multimedia>
-		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 13 984 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J7 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
-⚡️ Спецусловия только до конца июня:&lt;br /&gt;
-✔ Выгода до 400 000 ₽ — забирайте свой новый J7 на максимально привлекательных условиях по Трейд-ин и кредитным программам.&lt;br /&gt;
+		<Description>&lt;p&gt;😎 Только в июне: минимальный платеж по автокредиту 20 343 руб. МАКСИМАЛЬНАЯ ВЫГОДА на JAECOO J8 от ОФИЦИАЛЬНОГО ДИЛЕРА - АВТОФАН в центре Тольятти!&lt;br /&gt;
+⚡️ Эксклюзивные финансовые условия для JAECOO J8:&lt;br /&gt;
+✔ Выгода до 400 000 ₽ — забирайте свой новый J8 на максимально привлекательных условиях по Трейд-ин.&lt;br /&gt;
 ✔ Автокредит 0,01% на 36 месяцев — забирайте машину сейчас, платите без переплат.&lt;br /&gt;
 ✔ Кредит без первого взноса (срок до 84 мес.) — станьте владельцем прямо сегодня.&lt;br /&gt;
 Ваш автомобиль ждет вас! Салон находится в центре города: ул. Ленина, 44 📍&lt;br /&gt;
-🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.!&lt;br /&gt;
-JAECOO J7 — это уверенность на дорогах и за пределами асфальта. Харизматичный внедорожник, в котором классические штрихи идеально сбалансированы с элементами роскоши и самыми передовыми технологиями XXI века.&lt;br /&gt;
+🎁 Бонус с Авито: скидка 30 000 руб. за звонок с этого объявления. Наберите нас, чтобы закрепить условия.&lt;br /&gt;
+ФЛАГМАНСКИЙ JAECOO J8 — это стильный и элегантный кроссовер без компромиссов. Он не затеряется в городском потоке, а каждая поездка в нем превращается в безмятежное путешествие, словно на круизном лайнере.&lt;br /&gt;
 🚘 ХАРАКТЕРИСТИКИ И ОСНАЩЕНИЕ:&lt;br /&gt;
-📍 Двигатель: Мощный 1.6 Turbo (на выбор 150 л.с. или 186 л.с., крутящий момент 275 Нм). Динамичный разгон до сотки от 9.2 сек.&lt;br /&gt;
-📍 Привод: Доступен с передним (2WD) или интеллектуальным полным приводом (AWD) от всемирно известных ZF и Borgwarner.&lt;br /&gt;
-📍 Экстерьер: Цепляющий дизайн со светодиодной оптикой, 19-дюймовыми литыми дисками и выдвигающимися дверными ручками (не боятся обледенения).&lt;br /&gt;
-📍 Безопасность: Силовой каркас на 80% из высокопрочной стали, 7 подушек безопасности и полный комплекс ассистентов ADAS (адаптивный круиз, удержание в полосе, контроль слепых зон и автопереключение света).&lt;br /&gt;
-📍 Салон: Современный минимализм с панорамной крышей. Спортивные кресла с вентиляцией, подогревом и памятью настроек. Многофункциональный усеченный руль.&lt;br /&gt;
-📍 Мультимедиа: Огромный дисплей 14,8” (быстрый процессор Snapdragon 8155), проекция HUD, встроенная навигация, телематика и сервисы VK.&lt;br /&gt;
-📍 Практичность: Двухуровневое багажное отделение с удобным дистанционным открытием без помощи рук.&lt;br /&gt;
+📍 Эффективный двигатель: 2.0 л (249 л.с., 385 Нм). Высокий КПД обеспечивает отличную динамику (разгон до 100 км/ч за 8,5 сек) и низкий расход топлива (8,1 л в смешанном цикле).&lt;br /&gt;
+📍 Трансмиссия: Преселективная коробка с двумя сцеплениями 7DCT400 — гарантирует молниеносные переключения без прерывания потока мощности.&lt;br /&gt;
+📍 Интеллектуальный полный привод: Система AWD TORQUE VECTORING с двумя муфтами. Идеальная управляемость в поворотах, феноменальная проходимость и экономия топлива (карданный вал отключается за ненадобностью). 7 режимов вождения.&lt;br /&gt;
+📍 Адаптивная подвеска: Электронно-управляемые амортизаторы автоматически подстраиваются под дорогу, гасят крены, раскачку и клевки кузова при торможении.&lt;br /&gt;
+📍 Безопасность (Платформа T2X): Силовой каркас на 85% из высокопрочной стали (до 1500 МПа). До 10 подушек безопасности (включая уникальную центральную). Полный комплекс ассистентов ADAS (адаптивный круиз, удержание в полосе, слепые зоны).&lt;br /&gt;
+📍 Салон бизнес-класса: Отделка кожей «Наппа». Кресло водителя с массажем и вентиляцией. Второй ряд с подогревом и регулировкой угла наклона спинки.&lt;br /&gt;
+📍 Мультимедиа: Изогнутый сдвоенный экран на 24,6 дюйма. Сверхбыстрый 8-ядерный процессор Snapdragon 8155 для мгновенного отклика. Атмосферная подсветка салона на 255 цветов — создавайте настроение сами!&lt;br /&gt;
 🤝 ПОЧЕМУ ГК «АВТОФАН»:&lt;br /&gt;
 ✅ Мы официальный дилер. Работаем по договору, без серых схем и скрытых комиссий.&lt;br /&gt;
+✅ Быстрое одобрение сделок и индивидуальный подход к каждому клиенту.&lt;br /&gt;
+✅ Премиальная поддержка владельцев и честная гарантия на автомобили.&lt;br /&gt;
 ✅ 7 лет поддержки: До 200 000 км пробега полной уверенности (официальный сервис + оригинальные детали).&lt;br /&gt;
-✅ Премиум-сервис: Помощь на дорогах, услуга «Автоконсьерж» и доступ в закрытый Автоклуб владельцев.&lt;br /&gt;
-✅ Быстрое одобрение сделок и индивидуальный подход.&lt;br /&gt;
-📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по старым ценам уходят быстро. Ответим на все вопросы, забронируем за вами авто и запишем на бесплатный тест-драйв.&lt;/p&gt;
+📲 ЗВОНИТЕ ИЛИ ПИШИТЕ ПРЯМО СЕЙЧАС! Машины по спецпредложениям бронируют быстро. Ответим на все вопросы, зафиксируем за вами условия и запишем на бесплатный тест-драйв.&lt;/p&gt;
 &lt;p&gt;———————————————————————————&lt;br /&gt;
 ФУНКЦИОНАЛЬНОЕ ОБОРУДОВАНИЕ&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
+Детский замок с электроприводом&lt;br /&gt;
 Автоматическое запирание дверей на скорости&lt;br /&gt;
-Центральный замок с дистанционным управлением&lt;br /&gt;
-Бесключевой доступ (ключ в кармане)&lt;br /&gt;
-Светодиодные фары основного света&lt;br /&gt;
+Бесключевой доступ&lt;br /&gt;
+Полностью светодиодная оптика (светодиодные фары)&lt;br /&gt;
 Передние дневные светодиодные ходовые огни&lt;br /&gt;
-Функции автоматического включения фар в темное время (датчик света)&lt;br /&gt;
-Боковые зеркала с обогревом, повторителями поворотов&lt;br /&gt;
+Подвеска Си-Ди-Си (CDC) с регулируемой жесткостью амортизаторов&lt;br /&gt;
+Боковые зеркала с обогревом, повторителями сигналов поворота&lt;br /&gt;
 Обогрев лобового стекла&lt;br /&gt;
 Обогрев форсунок стеклоомывателя&lt;br /&gt;
 Обогрев передних сидений&lt;br /&gt;
-Обогрев сидений второго ряда&lt;br /&gt;
+Обогрев сидений 2 ряда&lt;br /&gt;
 Обогрев рулевого колеса&lt;br /&gt;
-Боковые зеркала с электрической регулировкой&lt;br /&gt;
-Электропривод складывания зеркал заднего вида&lt;br /&gt;
+Боковые зеркала с электрической регулировкой и электроприводом складывания&lt;br /&gt;
+Автоматический наклон зеркал заднего вида при движении задним ходом&lt;br /&gt;
 Передние и задние электростеклоподъемники с защитой от защемления&lt;br /&gt;
-Водительское сиденье с электрической регулировкой в 6 направлениях&lt;br /&gt;
+Водительское сиденье с электрической регулировкой в 8 направлениях&lt;br /&gt;
+Водительское сиденье с электрической регулировкой поясничного упора&lt;br /&gt;
 Пассажирское сиденье с электрической регулировкой в 4 направлениях&lt;br /&gt;
+Память настроек места водителя (сиденье, зеркала заднего вида)&lt;br /&gt;
 Электрический усилитель рулевого управления&lt;br /&gt;
-Рулевая колонка с регулировкой в 4 направлениях&lt;br /&gt;
+Электропривод рулевой колонки в 4 направлениях&lt;br /&gt;
+Подрулевые лепестки переключения передач&lt;br /&gt;
 Многофункциональное рулевое колесо&lt;br /&gt;
 Климат-контроль, 2 зоны&lt;br /&gt;
 Отдельная система кондиционирования для пассажиров: нет&lt;br /&gt;
+Передние сиденья с функцией массажа&lt;br /&gt;
 Вентиляция передних сидений&lt;br /&gt;
-Панорамный люк&lt;br /&gt;
-Аудиосистема с 8 динамиками&lt;br /&gt;
-Сенсорный дисплей мультимедийной системы 13.2 дюйма&lt;br /&gt;
+Люк&lt;br /&gt;
+Панорамная крыша&lt;br /&gt;
+Аудиосистема 14 динамиков&lt;br /&gt;
 Голосовое управление&lt;br /&gt;
-Беспроводная зарядка для смартфона мощностью 50 Вт (50W)&lt;br /&gt;
 Беспроводное подключение КарПлей/Андроид Ауто (CarPlay/Android Auto)&lt;br /&gt;
-Система “Свободные руки” (Hands free) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) спереди&lt;br /&gt;
-Ю-Эс-Би (USB) тип C (Type-C)&lt;br /&gt;
-2 разъема Ю-Эс-Би (USB) сзади&lt;br /&gt;
-Задние датчики парковки&lt;br /&gt;
-Передние датчики парковки&lt;br /&gt;
+Беспроводная зарядка для смартфона&lt;br /&gt;
+Система “Свободные руки” (Handsfree) с Блютус (Bluetooth)-связью с мобильным телефоном&lt;br /&gt;
+2 разъема Ю-Эс-Би (USB) спереди (Ю-Эс-Би (USB) и тип C (Type-C)) и 2 разъема Ю-Эс-Би (USB) сзади (Ю-Эс-Би (USB) и тип C (Type-C))&lt;br /&gt;
+Задние и передние датчики парковки&lt;br /&gt;
 Электропривод двери багажника (открытие багажника без помощи рук)&lt;br /&gt;
 Складная спинка сидений 2 ряда в соотношении 1/3-2/3&lt;br /&gt;
 Выбор режима вождения&lt;br /&gt;
-Цветной экран с бортовым компьютером в панели приборов 10.25 дюйма&lt;br /&gt;
-Датчик превышения заданной скорости/ограничитель скорости&lt;br /&gt;
+Бортовой компьютер/информационная система с проекционным дисплеем с дополненной реальностью Эй-Ар-Эйч-Ю-Ди (AR-HUD)&lt;br /&gt;
+Цветной экран с бортовым компьютером в панели приборов 12 дюймов&lt;br /&gt;
+Уведомление о превышении скорости/ограничитель скорости&lt;br /&gt;
+Адаптивный круиз-контроль Эй-Си-Си (ACC)&lt;br /&gt;
 Круиз-контроль&lt;br /&gt;
-Запуск двигателя кнопкой&lt;br /&gt;
+Запуск двигателя кнопкой (ключ в кармане)&lt;br /&gt;
 Дистанционный запуск двигателя и прогрева салона&lt;br /&gt;
 Система остановки/запуска двигателя Старт/Стоп (Start/Stop)&lt;br /&gt;
-Функция автоматического включения работы дворников при дожде (датчик дождя)&lt;br /&gt;
-Светодиодные задние фонари&lt;br /&gt;
-Уведомление о превышении скорости&lt;br /&gt;
-Блокировка замков задних дверей от открывания детьми (детский замок)&lt;br /&gt;
+Функция автоматического включения работы дворников при дожде&lt;br /&gt;
+Динамические указатели поворота&lt;br /&gt;
 Функция отсрочки выключения фар (Фоллоу ми хоум (Follow me home))&lt;br /&gt;
 Электрохромное зеркало заднего вида&lt;br /&gt;
+Регулировка угла наклона спинки сидений 2 ряда&lt;br /&gt;
+Воздуховоды для пассажиров 2 ряда&lt;br /&gt;
+Большой сенсорный дисплей 12 дюймов&lt;br /&gt;
+Розетка на 12 В (12V) спереди&lt;br /&gt;
+Регулируемый валик сиденья водителя&lt;br /&gt;
+Ароматерапия с 3 ароматами&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
 БЕЗОПАСНОСТЬ&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
 2 подушки безопасности водителя и переднего пассажира&lt;br /&gt;
 2 боковые передние подушки безопасности&lt;br /&gt;
 2 шторки безопасности&lt;br /&gt;
+2 боковые подушки безопасности для пассажиров второго ряда&lt;br /&gt;
+1 подушка безопасности для коленей водителя&lt;br /&gt;
+1 центральная подушка безопасности&lt;br /&gt;
 Антиблокировочная тормозная система Эй-Би-Эс (ABS)&lt;br /&gt;
 Система стабилизации курсовой устойчивости И-Эс-Си (ESC)&lt;br /&gt;
-Система распределения тормозного усилия И-Би-Ди (EBD)&lt;br /&gt;
+Усилитель экстренного торможения Би-Эй (BA)&lt;br /&gt;
+Электронная система распределения тормозных усилий (EBD)&lt;br /&gt;
 Система помощи при старте в гору: Эй-Эй-Си (HAC)&lt;br /&gt;
 Ассистент спуска с горы (HDC)&lt;br /&gt;
 Ассистент удержания в полосе (LKA)&lt;br /&gt;
+Система контроля усталости водителя Ди-Эм-Эс (DMS)&lt;br /&gt;
 Система мониторинга слепых зон Би-Эс-Ди (BSD)&lt;br /&gt;
 Система помощи при смене полосы Эл-Си-Эй (LCA)&lt;br /&gt;
 Предупреждение при опасности при открытии дверей Ди-О-Дабл-ю (DOW)&lt;br /&gt;
 Предупреждение о заднем перекрестном столкновении Ар-Си-Ти-Эй (RCTA)&lt;br /&gt;
+Система помощи при движении в пробках с интегрированным круиз-контролем (TJA/ICA)&lt;br /&gt;
 Система предупреждения о фронтальном столкновении (FCW)&lt;br /&gt;
-Система предотвращения заднего перекрестного столкновения (RCTB)&lt;br /&gt;
+Система предупреждения о столкновении сзади (RCW)&lt;br /&gt;
+Система автономного экстренного торможения (AEB)&lt;br /&gt;
 Автоматическое переключение ближнего и дальнего света (IHC)&lt;br /&gt;
 Система мониторинга давления и температуры в шинах (TPMS)&lt;br /&gt;
-Система кругового обзора 540°&lt;br /&gt;
+Система кругового обзора 540 градусов&lt;br /&gt;
 Электрический стояночный тормоз с функцией автоматического удержания (Auto Hold)&lt;br /&gt;
 Система удержания детских кресел для 2 ряда: Ай-Софикс (Isofix)&lt;br /&gt;
 Предупреждение о покидании полосы (LDW)&lt;br /&gt;
-Иммобилайзер&lt;br /&gt;
-ЭРА-ГЛОНАСС&lt;br /&gt;
 Передние ремни безопасности с регулировкой по высоте&lt;br /&gt;
+Активный преднатяжитель ремня безопасности водителя&lt;br /&gt;
+Встроенный видеорегистратор&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
 ИНТЕРЬЕР&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
 Количество мест: 5&lt;br /&gt;
 Тип сидений: обычные&lt;br /&gt;
-Отделка сидений из искусственной кожи&lt;br /&gt;
+Отделка сидений из натуральной кожи&lt;br /&gt;
 Цвет обивки сидений: черный&lt;br /&gt;
 Цвет передней панели: черный&lt;br /&gt;
 Цвет коврового покрытия: черный&lt;br /&gt;
-Цвет потолка: черный&lt;br /&gt;
-Рулевое колесо с отделкой кожей&lt;br /&gt;
+Черный бархатный потолок&lt;br /&gt;
+Тонировка стекол&lt;br /&gt;
+Отделка руля кожей&lt;br /&gt;
+Приветственная подсветка&lt;br /&gt;
 Акустическое лобовое стекло&lt;br /&gt;
 Многослойные передние стекла&lt;br /&gt;
-Передний центральный подлокотник с емкостью для хранения&lt;br /&gt;
-Дефлекторы для 2 ряда&lt;br /&gt;
-Зеркало в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
-Подсветка в солнцезащитном козырьке водителя и пассажира&lt;br /&gt;
+Система для облегчения посадки и высадки водителя&lt;br /&gt;
+Зеркало в солнцезащитном козырьке водителя и пассажира с подсветкой&lt;br /&gt;
 Подсветка перчаточного отделения&lt;br /&gt;
-Центральный подлокотник для 2 ряда сидений&lt;br /&gt;
-Ручки для пассажиров с микролифтом&lt;br /&gt;
 Потолочные светодиодные светильники для 2 ряда сидений&lt;br /&gt;
-Подсветка багажного отделения&lt;br /&gt;
+Светодиодная подсветка багажного отделения.&lt;br /&gt;
+Оттоманка для переднего пассажира&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
 ЭКСТЕРЬЕР&lt;br /&gt;
 ———————————————————————————&lt;br /&gt;
-Черный металлик&lt;em&gt;&lt;br /&gt;
+Черный металлик (Metallic)&lt;em&gt;&lt;br /&gt;
 Тип кузова: кроссовер&lt;br /&gt;
 Количество дверей: 5&lt;br /&gt;
+Рейлинги на крыше&lt;br /&gt;
 Алюминиевые литые диски&lt;br /&gt;
-Размер дисков: 18 дюймов&lt;br /&gt;
-Шины 235/55R18&lt;br /&gt;
+Размер дисков: 20 дюймов&lt;br /&gt;
+Шины 245/50R20&lt;br /&gt;
+Газовые упоры капота&lt;br /&gt;
+Полноразмерное запасное колесо&lt;br /&gt;
 ________&lt;br /&gt;
 &lt;/em&gt; Дополнительные заводские опции&lt;/p&gt;</Description>
 		<Maintenance>
 			<Option>На гарантии</Option>
 		</Maintenance>
-		<MaxDiscount>932700</MaxDiscount>
+		<MaxDiscount>1393500</MaxDiscount>
 		<OnlyOnAvito>Нет</OnlyOnAvito>
 		<RegInRussia>Не на учете в РФ</RegInRussia>
 		<ActiveSafety>
@@ -9166,13 +7883,13 @@ ________&lt;br /&gt;
 		</ActiveSafety>
 		<Availability>В наличии</Availability>
 		<ContactPhone>78482270470</ContactPhone>
-		<Modification>1.6 TGDI DCT (150 л.с.)</Modification>
+		<Modification>2.0 TGDI 4WD DCT (249 л.с.)</Modification>
 		<Transmission>Робот</Transmission>
-		<Complectation>Престиж</Complectation>
+		<Complectation>Supreme</Complectation>
 		<ContactMethod>По телефону и в сообщениях</ContactMethod>
 		<ElectricDrive>
 			<Option>Передних сидений</Option>
-			<Option>Передних сидений</Option>
+			<Option>Рулевой колонки</Option>
 			<Option>Зеркал</Option>
 			<Option>Складывания зеркал</Option>
 		</ElectricDrive>
@@ -9180,10 +7897,12 @@ ________&lt;br /&gt;
 			<Option>Адаптивное освещение</Option>
 		</LightsOptions>
 		<ClimateControl>Климат-контроль многозонный</ClimateControl>
-		<CreditDiscount>532700</CreditDiscount>
+		<CreditDiscount>993500</CreditDiscount>
+		<MemorySettings>
+			<Option>Передних сидений</Option>
+		</MemorySettings>
 		<AntitheftSystem>
 			<Option>Центральный замок</Option>
-			<Option>Иммобилайзер</Option>
 		</AntitheftSystem>
 		<InteriorOptions>
 			<Option>Кожаный руль</Option>
@@ -9195,9 +7914,9 @@ ________&lt;br /&gt;
 			<Option>Круиз-контроль</Option>
 			<Option>Парктроник передний</Option>
 			<Option>Парктроник задний</Option>
+			<Option>Камера заднего вида</Option>
 			<Option>Система контроля слепых зон</Option>
 			<Option>Датчик дождя</Option>
-			<Option>Датчик света</Option>
 		</DrivingAssistance>
 		<InsuranceDiscount>0</InsuranceDiscount>
 	</Ad>
